@@ -1,12 +1,9 @@
-<img alt="GoStack" src=".github/header-desafios.png" />
-
 <h3 align="center">
   Desafio 04: Conceitos do React Native
 </h3>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>
 </p>
 
 ## :rocket: Sobre o desafio
@@ -36,11 +33,6 @@ Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir par
 Para esse desafio temos os seguintes testes:
 
 - **`should add a like to the like counter of the repository`**: Para que esse teste passe, sua aplicação deve permitir ao clicar no botão `Curtir`, um like seja adicionado ao repositório listado, e que essa atualização possa ser visualizada na tela.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 Feito por :wave: [Anderson Rodrigues](https://www.linkedin.com/in/andersonmaikrodrigues/)
